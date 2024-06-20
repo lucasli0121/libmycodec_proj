@@ -1,0 +1,32 @@
+{
+    "files.associations": {
+        "array": "cpp",
+        "bitset": "cpp",
+        "deque": "cpp",
+        "iterator": "cpp",
+        "list": "cpp",
+        "queue": "cpp",
+        "stack": "cpp",
+        "vector": "cpp",
+        "xhash": "cpp",
+        "format": "cpp",
+        "initializer_list": "cpp",
+        "ranges": "cpp",
+        "span": "cpp",
+        "type_traits": "cpp",
+        "xstring": "cpp",
+        "xutility": "cpp",
+        "__hash_table": "cpp",
+        "__split_buffer": "cpp",
+        "unordered_map": "cpp",
+        "utility": "cpp",
+        "cstring": "cpp",
+        "ctime": "cpp",
+        "algorithm": "cpp",
+        "xiosbase": "cpp",
+        "xlocale": "cpp",
+        "__locale": "cpp",
+        "ios": "cpp"
+    },
+    "C_Cpp.default.compilerPath": "D:\\msys64\\mingw64\\bin\\g++.exe"
+}
